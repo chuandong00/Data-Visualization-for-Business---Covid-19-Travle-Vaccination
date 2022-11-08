@@ -1,0 +1,226 @@
+location,iso_code,last_observation_date,Oxford/AstraZeneca,Pfizer/Biotech,Johnson&Johnson,Sinovac,Sputnik V,Sinopharm/Beijing,Moderna,Covaxin,Medigen,CanSino,Abdala,ZF2001,COVIran Barekat,EpiVacCorona,Soberana02,vaccines,Total Vaccinations in Each Country,Total Vacc/Grand Total
+Afghanistan,AFG,11/14/21,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","4,018,197",0.052%
+Albania,ALB,11/18/21,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V","2,033,766",0.026%
+Algeria,DZA,11/13/21,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V","11,376,816",0.146%
+Andorra,AND,10/31/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","104,534",0.001%
+Angola,AGO,11/18/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"8,231,981",0.106%
+Anguilla,AIA,11/19/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","19,066",0.000%
+Antigua and Barbuda,ATG,11/16/21,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V","115,487",0.001%
+Argentina,ARG,11/20/21,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","65,879,184",0.845%
+Armenia,ARM,11/14/21,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V","923,530",0.012%
+Aruba,ABW,11/20/21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"161,113",0.002%
+Australia,AUS,11/20/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","38,420,798",0.493%
+Austria,AUT,11/20/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","12,873,101",0.165%
+Azerbaijan,AZE,11/20/21,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V","10,267,178",0.132%
+Bahamas,BHS,11/19/21,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech","274,502",0.004%
+Bahrain,BHR,11/20/21,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","2,851,438",0.037%
+Bangladesh,BGD,11/18/21,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","86,995,218",1.116%
+Barbados,BRB,11/17/21,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","285,653",0.004%
+Belarus,BLR,11/14/21,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"Sinopharm/Beijing, Sputnik V","5,685,092",0.073%
+Belgium,BEL,11/18/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","17,024,078",0.218%
+Belize,BLZ,11/12/21,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","398,131",0.005%
+Benin,BEN,11/8/21,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","347,270",0.004%
+Bermuda,BMU,11/5/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","101,341",0.001%
+Bhutan,BTN,10/31/21,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","1,148,146",0.015%
+Bolivia,BOL,11/11/21,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","8,041,447",0.103%
+Bonaire Sint Eustatius and Saba,BES,9/1/21,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Pfizer/BioNTech","35,845",0.000%
+Bosnia and Herzegovina,BIH,11/4/21,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V","1,553,874",0.020%
+Botswana,BWA,11/18/21,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","1,254,239",0.016%
+Brazil,BRA,11/17/21,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","297,960,460",3.821%
+British Virgin Islands,VGB,11/12/21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca","34,608",0.000%
+Brunei,BRN,11/18/21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing","707,278",0.009%
+Bulgaria,BGR,11/20/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","3,181,487",0.041%
+Burkina Faso,BFA,11/4/21,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing","661,796",0.008%
+Burundi,BDI,11/15/21,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Sinopharm/Beijing,"1,266",0.000%
+Cambodia,KHM,11/18/21,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac","28,380,908",0.364%
+Cameroon,CMR,11/18/21,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","607,270",0.008%
+Canada,CAN,11/20/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","59,935,961",0.769%
+Cape Verde,CPV,11/10/21,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","526,891",0.007%
+Cayman Islands,CYM,11/12/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","119,435",0.002%
+Central African Republic,CAF,11/7/21,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,"Covaxin, Oxford/AstraZeneca","422,372",0.005%
+Chad,TCD,11/14/21,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Sinopharm/Beijing,"242,251",0.003%
+Chile,CHL,11/17/21,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","39,642,261",0.508%
+China,CHN,11/20/21,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,"CanSino, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, ZF2001","2,430,743,000",31.172%
+Colombia,COL,11/18/21,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","53,179,680",0.682%
+Comoros,COM,11/14/21,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing","476,350",0.006%
+Congo,COG,11/18/21,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V","591,722",0.008%
+Cook Islands,COK,11/8/21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"24,326",0.000%
+Costa Rica,CRI,11/15/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","6,878,077",0.088%
+Cote d'Ivoire,CIV,11/14/21,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","3,845,788",0.049%
+Croatia,HRV,11/19/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","3,963,116",0.051%
+Cuba,CUB,11/18/21,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,"Abdala, Soberana02","27,794,032",0.356%
+Curacao,CUW,11/20/21,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Pfizer/BioNTech","196,835",0.003%
+Cyprus,CYP,11/18/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","1,257,376",0.016%
+Czechia,CZE,11/20/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","13,019,906",0.167%
+Democratic Republic of Congo,COD,11/16/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"166,388",0.002%
+Denmark,DNK,11/18/21,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Pfizer/BioNTech","8,925,308",0.114%
+Djibouti,DJI,11/18/21,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","96,168",0.001%
+Dominica,DMA,11/19/21,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","55,134",0.001%
+Dominican Republic,DOM,11/20/21,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac","13,683,852",0.175%
+Ecuador,ECU,11/12/21,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","23,103,250",0.296%
+Egypt,EGY,11/13/21,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","34,871,428",0.447%
+El Salvador,SLV,11/16/21,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac","8,946,050",0.115%
+England,OWID_ENG,11/19/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","93,486,462",1.199%
+Equatorial Guinea,GNQ,11/19/21,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Sinopharm/Beijing,"442,855",0.006%
+Estonia,EST,11/19/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","1,467,635",0.019%
+Eswatini,SWZ,11/11/21,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech","293,353",0.004%
+Ethiopia,ETH,11/18/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"5,151,525",0.066%
+Faeroe Islands,FRO,11/5/21,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Pfizer/BioNTech","78,347",0.001%
+Falkland Islands,FLK,4/14/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"4,407",0.000%
+Fiji,FJI,11/15/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"1,208,816",0.016%
+Finland,FIN,11/20/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","8,251,633",0.106%
+France,FRA,11/18/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","102,251,289",1.311%
+French Polynesia,PYF,11/15/21,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Pfizer/BioNTech","312,817",0.004%
+Gabon,GAB,11/15/21,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","256,974",0.003%
+Gambia,GMB,11/14/21,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing","267,644",0.003%
+Georgia,GEO,11/19/21,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac","2,090,036",0.027%
+Germany,DEU,11/19/21,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","117,286,226",1.504%
+Ghana,GHA,11/18/21,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sputnik V","3,367,531",0.043%
+Gibraltar,GIB,11/18/21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"95,407",0.001%
+Greece,GRC,11/20/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","13,620,607",0.175%
+Greenland,GRL,11/4/21,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Moderna,"77,383",0.001%
+Grenada,GRD,11/12/21,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech","72,282",0.001%
+Guatemala,GTM,11/19/21,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca","9,469,775",0.121%
+Guernsey,GGY,11/15/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","104,070",0.001%
+Guinea,GIN,11/10/21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Sputnik V,"2,364,291",0.030%
+Guinea-Bissau,GNB,11/16/21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing","332,497",0.004%
+Guyana,GUY,11/18/21,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sputnik V","660,221",0.008%
+Haiti,HTI,11/12/21,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna","153,182",0.002%
+Honduras,HND,11/19/21,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V","7,916,340",0.102%
+Hong Kong,HKG,11/20/21,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Pfizer/BioNTech, Sinovac","9,275,808",0.119%
+Hungary,HUN,11/18/21,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","13,230,807",0.170%
+Iceland,ISL,11/18/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","608,236",0.008%
+India,IND,11/20/21,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,"Covaxin, Oxford/AstraZeneca, Sputnik V","1,163,685,005",14.923%
+Indonesia,IDN,11/20/21,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac","222,785,206",2.857%
+Iran,IRN,11/13/21,1,0,0,0,1,1,0,1,0,0,0,0,1,0,1,"COVIran Barekat, Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Soberana02, Sputnik V","98,181,400",1.259%
+Iraq,IRQ,11/15/21,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","10,806,021",0.139%
+Ireland,IRL,11/18/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","7,895,265",0.101%
+Isle of Man,IMN,11/19/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","132,969",0.002%
+Israel,ISR,11/20/21,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Pfizer/BioNTech","16,068,726",0.206%
+Italy,ITA,11/20/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","93,415,792",1.198%
+Jamaica,JAM,11/20/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","1,071,648",0.014%
+Japan,JPN,11/18/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","195,490,201",2.507%
+Jersey,JEY,11/14/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","179,485",0.002%
+Jordan,JOR,11/20/21,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","7,742,207",0.099%
+Kazakhstan,KAZ,11/20/21,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"QazVac, Sinopharm/Beijing, Sputnik V","16,550,257",0.212%
+Kenya,KEN,11/18/21,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sputnik V","6,311,749",0.081%
+Kiribati,KIR,11/15/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"72,912",0.001%
+Kosovo,OWID_KOS,11/18/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","1,601,129",0.021%
+Kuwait,KWT,8/14/21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"2,668,082",0.034%
+Kyrgyzstan,KGZ,11/20/21,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"Sinopharm/Beijing, Sputnik V","1,922,780",0.025%
+Laos,LAO,10/28/21,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","4,402,770",0.056%
+Latvia,LVA,11/19/21,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Pfizer/BioNTech","2,127,462",0.027%
+Lebanon,LBN,11/20/21,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","3,506,393",0.045%
+Lesotho,LSO,10/10/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"383,341",0.005%
+Liberia,LBR,11/18/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"589,628",0.008%
+Libya,LBY,11/18/21,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","2,178,584",0.028%
+Liechtenstein,LIE,11/18/21,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Pfizer/BioNTech","49,673",0.001%
+Lithuania,LTU,11/20/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","3,575,450",0.046%
+Luxembourg,LUX,11/14/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","859,517",0.011%
+Macao,MAC,11/4/21,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"Pfizer/BioNTech, Sinopharm/Beijing","821,561",0.011%
+Madagascar,MDG,11/18/21,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing","606,819",0.008%
+Malawi,MWI,11/17/21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca","1,327,347",0.017%
+Malaysia,MYS,11/19/21,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac","51,604,205",0.662%
+Maldives,MDV,11/17/21,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","762,498",0.010%
+Mali,MLI,11/2/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"596,435",0.008%
+Malta,MLT,11/19/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","924,089",0.012%
+Mauritania,MRT,11/18/21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing","1,715,120",0.022%
+Mauritius,MUS,11/18/21,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing","1,792,254",0.023%
+Mexico,MEX,11/20/21,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,"CanSino, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V","130,789,808",1.677%
+Moldova,MDA,11/20/21,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","1,590,186",0.020%
+Monaco,MCO,9/16/21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"49,980",0.001%
+Mongolia,MNG,11/19/21,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","4,405,665",0.056%
+Montenegro,MNE,11/20/21,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","520,761",0.007%
+Montserrat,MSR,11/12/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"2,949",0.000%
+Morocco,MAR,11/17/21,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","48,561,070",0.623%
+Mozambique,MOZ,11/18/21,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing","8,891,246",0.114%
+Myanmar,MMR,11/13/21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing","24,253,764",0.311%
+Namibia,NAM,11/18/21,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","630,212",0.008%
+Nauru,NRU,8/31/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"14,863",0.000%
+Nepal,NPL,11/16/21,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V","16,536,009",0.212%
+Netherlands,NLD,11/17/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","24,382,465",0.313%
+New Caledonia,NCL,11/15/21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"342,806",0.004%
+New Zealand,NZL,11/20/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"7,341,475",0.094%
+Nicaragua,NIC,11/5/21,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V","1,674,896",0.021%
+Niger,NER,11/14/21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing","963,041",0.012%
+Nigeria,NGA,11/18/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"9,253,702",0.119%
+Niue,NIU,8/2/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"2,352",0.000%
+North Macedonia,MKD,11/18/21,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","1,666,261",0.021%
+Northern Cyprus,OWID_CYN,11/19/21,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","575,309",0.007%
+Northern Ireland,OWID_NIR,11/19/21,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","2,902,394",0.037%
+Norway,NOR,11/17/21,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Pfizer/BioNTech","8,010,880",0.103%
+Oman,OMN,11/9/21,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V","5,822,656",0.075%
+Pakistan,PAK,11/19/21,1,1,0,1,1,1,1,1,0,1,0,0,0,0,0,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","120,448,598",1.545%
+Palestine,PSE,11/10/21,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V","2,944,638",0.038%
+Panama,PAN,11/20/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","5,554,481",0.071%
+Papua New Guinea,PNG,11/7/21,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing","337,131",0.004%
+Paraguay,PRY,11/19/21,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,"Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","5,921,882",0.076%
+Peru,PER,11/17/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","38,570,935",0.495%
+Philippines,PHL,11/18/21,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","73,917,573",0.948%
+Pitcairn,PCN,9/7/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,94,0.000%
+Poland,POL,11/20/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","40,571,910",0.520%
+Portugal,PRT,11/15/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","16,308,391",0.209%
+Qatar,QAT,11/20/21,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Pfizer/BioNTech","4,911,463",0.063%
+Romania,ROU,11/19/21,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","14,250,518",0.183%
+Russia,RUS,11/20/21,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,"EpiVacCorona, Sputnik V","119,759,585",1.536%
+Rwanda,RWA,11/18/21,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","8,084,680",0.104%
+Saint Helena,SHN,5/5/21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Oxford/AstraZeneca,"7,892",0.000%
+Saint Kitts and Nevis,KNA,11/19/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","51,414",0.001%
+Saint Lucia,LCA,11/20/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","98,882",0.001%
+Saint Vincent and the Grenadines,VCT,11/17/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"51,288",0.001%
+Samoa,WSM,11/15/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"223,504",0.003%
+San Marino,SMR,11/7/21,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,"Pfizer/BioNTech, Sputnik V","47,619",0.001%
+Sao Tome and Principe,STP,11/10/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"109,686",0.001%
+Saudi Arabia,SAU,11/20/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","47,013,241",0.603%
+Scotland,OWID_SCT,11/19/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","9,649,462",0.124%
+Senegal,SEN,10/20/21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing","1,961,144",0.025%
+Serbia,SRB,11/19/21,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","7,660,179",0.098%
+Seychelles,SYC,11/17/21,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V","175,390",0.002%
+Sierra Leone,SLE,11/10/21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing","744,826",0.010%
+Singapore,SGP,11/5/21,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","10,083,329",0.129%
+Sint Maarten (Dutch part),SXM,11/12/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","51,155",0.001%
+Slovakia,SVK,11/19/21,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V","4,895,694",0.063%
+Slovenia,SVN,11/20/21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech","2,359,521",0.030%
+Solomon Islands,SLB,11/8/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"171,562",0.002%
+Somalia,SOM,11/13/21,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac","964,433",0.012%
+South Africa,ZAF,11/18/21,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Pfizer/BioNTech","24,471,210",0.314%
+South Korea,KOR,11/19/21,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","82,927,648",1.063%
+South Sudan,SSD,11/9/21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca","151,245",0.002%
+Spain,ESP,11/18/21,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","74,683,916",0.958%
+Sri Lanka,LKA,11/20/21,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","29,595,254",0.380%
+Sudan,SDN,10/20/21,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac","1,659,666",0.021%
+Suriname,SUR,11/20/21,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","470,244",0.006%
+Sweden,SWE,11/19/21,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","15,249,938",0.196%
+Switzerland,CHE,11/18/21,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Pfizer/BioNTech","11,492,427",0.147%
+Syria,SYR,11/15/21,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V","1,342,360",0.017%
+Taiwan,TWN,11/19/21,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","28,986,957",0.372%
+Tajikistan,TJK,11/14/21,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V","5,059,324",0.065%
+Tanzania,TZA,10/29/21,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Pfizer/BioNTech, Sinopharm/Beijing","1,001,610",0.013%
+Thailand,THA,11/20/21,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac","88,330,952",1.133%
+Timor,TLS,11/16/21,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","1,017,255",0.013%
+Togo,TGO,11/12/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"1,453,570",0.019%
+Tokelau,TKL,10/12/21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"1,936",0.000%
+Tonga,TON,11/15/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"102,568",0.001%
+Trinidad and Tobago,TTO,11/20/21,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing","1,271,530",0.016%
+Tunisia,TUN,11/18/21,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V","9,977,626",0.128%
+Turkey,TUR,11/20/21,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,"Pfizer/BioNTech, Sinovac","119,272,284",1.530%
+Turkmenistan,TKM,8/29/21,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,"EpiVacCorona, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V","7,580,976",0.097%
+Turks and Caicos Islands,TCA,11/5/21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pfizer/BioNTech,"56,343",0.001%
+Tuvalu,TUV,10/22/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"12,114",0.000%
+Uganda,UGA,11/15/21,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","4,751,422",0.061%
+Ukraine,UKR,11/20/21,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","22,569,609",0.289%
+United Arab Emirates,ARE,11/15/21,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V","21,548,528",0.276%
+United Kingdom,GBR,11/19/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","111,478,701",1.430%
+United States,USA,11/20/21,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"Johnson&Johnson, Moderna, Pfizer/BioNTech","449,955,588",5.770%
+Uruguay,URY,11/20/21,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac","6,719,939",0.086%
+Uzbekistan,UZB,11/19/21,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,"Moderna, Oxford/AstraZeneca, Sputnik V, ZF2001","30,889,942",0.396%
+Vanuatu,VUT,11/15/21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Oxford/AstraZeneca,"122,867",0.002%
+Venezuela,VEN,11/5/21,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,"Abdala, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V","23,156,914",0.297%
+Vietnam,VNM,11/19/21,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V","106,543,301",1.366%
+Wales,OWID_WLS,11/19/21,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech","5,440,383",0.070%
+Wallis and Futuna,WLF,11/15/21,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Moderna,"11,858",0.000%
+Yemen,YEM,11/17/21,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinovac","754,397",0.010%
+Zambia,ZMB,11/19/21,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing","1,014,439",0.013%
+Zimbabwe,ZWE,11/20/21,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V","6,396,012",0.082%
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,7797875194,100%
